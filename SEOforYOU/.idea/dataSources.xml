@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="551875389">
+    <data-source source="LOCAL" name="Rails SEOforYOU: development" uuid="aa7727fa-96d9-4a0c-8316-73b6896b8017">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/seo_development</jdbc-url>
+      <user-name>fab</user-name>
+      <user-password>dfccdfcbdfc8df98df9adf9bdf9bdf8b</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/mysql-connector-java-5.1.26-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

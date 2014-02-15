@@ -9,5 +9,15 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
- *= require_tree .
+ *= require_tree
  */
+
+.web_text{
+    text-align: left; text-decoration-color: #333333;
+    font-size: 16px;
+}
+
+.page_header_custom{
+font-family: 'Fjalla One', sans-serif;
+font-size: 60px;
+}
