@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="dataSourceStorage">
-  <data-source source="LOCAL" name="Rails SEOforYOU: development" uuid="aa7727fa-96d9-4a0c-8316-73b6896b8017">
+  <data-source source="LOCAL" name="Rails SEOforYOU: development" uuid="f6d03c79-3a15-499a-a3b7-e9a1fc4fa8b3">
     <database-info product="MySQL" version="5.6.14" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.26 ( Revision: ${bzr.revision-id} )">
       <extra-name-characters>#@</extra-name-characters>
       <identifier-quote-string>`</identifier-quote-string>
@@ -28,6 +28,7 @@
     <schema name="" catalog="inspiration_development"/>
     <schema name="" catalog="mysql"/>
     <schema name="" catalog="performance_schema"/>
+    <schema name="" catalog="seo_development"/>
     <schema name="" catalog="test"/>
     <schema name="" catalog="wms_fab_communication_development"/>
     <table name="benchmark_statistics" schema="" catalog="codeworld_development" type="TABLE">

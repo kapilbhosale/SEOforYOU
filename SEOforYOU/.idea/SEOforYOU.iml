@@ -110,11 +110,8 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-<<<<<<< Updated upstream
-=======
       <RunnerSettings RunnerId="RubyDebugRunner" />
       <ConfigurationWrapper RunnerId="RubyDebugRunner" />
->>>>>>> Stashed changes
       <method />
     </configuration>
   </component>
@@ -123,38 +120,9 @@
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
-<<<<<<< Updated upstream
-    <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v3.2.16, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="actionpack (v3.2.16, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activemodel (v3.2.16, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activerecord (v3.2.16, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activeresource (v3.2.16, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activesupport (v3.2.16, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="arel (v3.0.3, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="builder (v3.0.4, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.3.5, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.3, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.9, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="journey (v1.0.4, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.1, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mail (v2.5.4, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.25.1, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.8.4, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.3, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack (v1.4.5, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack-cache (v1.2, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.2, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v10.1.1, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.2.2, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.15, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.38, RVM: ruby-1.9.2-p320 [rails321]) [gem]" level="application" />
-=======
     <orderEntry type="jdk" jdkName="RVM: ruby-2.0.0-p247 [seo_gemset]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="PageRankr (v4.2.0, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionmailer (v4.0.2, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionpack (v4.0.2, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v4.0.2, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
@@ -171,16 +139,22 @@
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.0.2, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.3, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="httparty (v0.13.0, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.9, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v1.5.3, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v3.1.0, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.8.1, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jsonpath (v0.5.6, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.5.4, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.25.1, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile (v0.5.2, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest (v4.7.5, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.8.4, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_xml (v0.5.5, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mysql (v2.9.1, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.1, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.3, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="public_suffix (v1.4.0, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.2, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v4.0.2, RVM: ruby-2.0.0-p247 [seo_gemset]) [gem]" level="application" />
@@ -203,7 +177,6 @@
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
     <I18N_FOLDERS number="1" string0="$MODULE_DIR$/config/locales" />
->>>>>>> Stashed changes
   </component>
 </module>
 

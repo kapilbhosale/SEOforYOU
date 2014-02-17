@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< Updated upstream
-  <component name="ProjectRootManager" version="2" project-jdk-name="RVM: ruby-1.9.2-p320 [rails321]" project-jdk-type="RUBY_SDK" />
-=======
   <component name="ProjectRootManager" version="2" project-jdk-name="RVM: ruby-1.9.2-p320 [global]" project-jdk-type="RUBY_SDK" />
->>>>>>> Stashed changes
 </project>
 

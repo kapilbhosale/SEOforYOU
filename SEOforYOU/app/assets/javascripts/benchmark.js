@@ -21,10 +21,10 @@ function submit_value(){
         type: "POST",
         success: function(response){
             alertify.set({ delay: 5200 });
-            alertify.success('The Input is :'+$('#submit_website').val());
-            alertify.success("Alexa Rank US:"+response.alexa_us);
-            alertify.success("Alexa Global:"+response.alexa_global);
-            $('#submit_website').focus();
+//            mes = "The Input is :"+$('#submit_website').val();
+//            alertify.alert(mes);
+            output = "Alexa Rank US:"+response.alexa_us+"\Alexa Global:"+response.alexa_global;
+            alertify.alert(output);
             $('.fancyInput').find(':input')[0].focus();
 //            $("#validation_response").html(response.output);
 //            $("#compile_status").html(response.status);
