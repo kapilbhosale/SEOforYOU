@@ -596,7 +596,7 @@
 				if (typeof el.removeEventListener === "function") {
 					el.removeEventListener(event, fn, false);
 				} else if (el.detachEvent) {
-					el.detachEvent("on" + event, fn);
+					el.detachEvent("on2" + event, fn);
 				}
 			}
 		};
